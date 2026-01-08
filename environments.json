@@ -1,0 +1,14 @@
+{
+  "mainnet": {
+    "rpcUrl": "https://mainnet.unlink.xyz/api",
+    "poolAddress": "0x0000000000000000000000000000000000000000"
+  },
+  "testnet": {
+    "rpcUrl": "https://testnet.unlink.xyz/api",
+    "poolAddress": "0x7E8CC57D41Ad977c75D51D6570b7682421DB918b"
+  },
+  "local": {
+    "rpcUrl": "http://localhost:3030",
+    "poolAddress": "0xb7f8bc63bbcad18155201308c8f3540b07f84f5e"
+  }
+}
