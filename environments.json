@@ -5,7 +5,7 @@
   },
   "testnet": {
     "rpcUrl": "https://testnet.unlink.xyz/api",
-    "poolAddress": "0x7E8CC57D41Ad977c75D51D6570b7682421DB918b"
+    "poolAddress": "0x3027AB04895E170aD5Be3D0453eF61945139c163"
   },
   "local": {
     "rpcUrl": "http://localhost:3030",
